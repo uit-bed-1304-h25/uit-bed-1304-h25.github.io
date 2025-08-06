@@ -11,9 +11,9 @@
 - Eksamen vurderes med karakter A til E, hvor F er stryk.
 
 
-| Type oppgave             | Innleveringsfrist | Hvordan               |Vurdering               |
-|--------------------------|-------------------|-----------------------|------------------------|
-|Arbeidskrav               |  xx.xx            | Canvas                |Godkjent/Ikke-godkjent  |
-|Eksamen                   |  xx.xx            | Digital skoleeksamen  |100% av karaktergrunnlag|
+| Type oppgave             | Innleveringsfrist                     | Hvordan               |Vurdering               |
+|--------------------------|---------------------------------------|-----------------------|------------------------|
+|Arbeidskrav               |  xx.xx                                | Canvas                |Godkjent/Ikke-godkjent  |
+|Eksamen                   |  24. november; kl. 09:00-13:00        | Digital skoleeksamen  |100% av karaktergrunnlag|
 
 Arbeidskravet kan gjøres alene, eller i grupper på to. Eksamen er individuell.
