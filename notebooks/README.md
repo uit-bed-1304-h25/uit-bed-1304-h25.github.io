@@ -1,6 +1,7 @@
 # Forelesningsnotater
 Her vil jeg legge ut forelesningsnotatene vi går i gjennom i forelesning. 
-**NB:** Filene vil oppdateres inn mot forelesningene, og dere vil se når de er oppdatert under kolonnen *Last commit date*.
+
+**NB:** Filene vil oppdateres når forelesningsdatoen nærmer seg, og dere vil se når de er oppdatert under kolonnen *Last commit date*.
 
 I tillegg, vil det også slippes løsningsforslag, som viser mulige løsninger på oppgavene nederst i forelesningsnotatene. Disse blir lagt ut **etter** forelesningene/seminar.
 
