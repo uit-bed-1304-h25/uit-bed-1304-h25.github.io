@@ -16,4 +16,4 @@
 |Arbeidskrav               |  xx.xx                                | Canvas                |Godkjent/Ikke-godkjent  |
 |Eksamen                   |  24. november; kl. 09:00-13:00        | Digital skoleeksamen  |100% av karaktergrunnlag|
 
-Arbeidskravet kan gjøres alene, eller i grupper på to. Eksamen er individuell.
+Arbeidskravet gjennomføres individuelt. Eksamen er individuell.
