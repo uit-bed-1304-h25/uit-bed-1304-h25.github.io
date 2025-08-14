@@ -23,9 +23,9 @@ I forbindelse med spørsmål til faget, eksamen og prosjektet skal spørsmål he
 
 ## Seminarledere
 I dette kurset (i Tromsø) har vi tre seminarledere, disse vil være tilgjengelig i seminarene og hjelpe dere med oppgaver/øving til eksamen/kode-trøbbel.
-- Erling Mikkola <ermik7127@uit.no>
-- Daniel Nikolai Johannessen <djo060@uit.no>
-- Daniel Fabio Groth <dgr012@uit.no>
+- Erling Mikkola - <ermik7127@uit.no>
+- Daniel Nikolai Johannessen - <djo060@uit.no>
+- Daniel Fabio Groth - <dgr012@uit.no>
 
 ## Administrative spørsmål
 For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
