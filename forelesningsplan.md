@@ -1,7 +1,7 @@
 {% include navbar.html %}{% include top-box.html %}
-# Forelesningsplan og seminarer (SKAL OPPDATERES!!!)
+# Forelesningsplan og seminarer
 Her finner du informasjon om forelesningene og seminarene vi har i kurset.
-Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://timeplan.uit.no/emne_timeplan.php?sem=25v&module=SOK-3023-1).
+Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=BED-1304%2C1&type=course&sem=25h&campus=&hide_old=0).
 
 
 ## Oversikt over forelesninger og seminar.
