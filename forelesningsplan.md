@@ -12,7 +12,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 |----------------|------------------|--------------------|--------------------|
 | 15.08.2025 08:15-10:00   |Tromsø  |1. Introduksjon |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/1%20-%20Introduksjon.ipynb)|
 | 18.08.2025 08:15-10:00   |Tromsø  |1. Introduksjon |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar1-Introduksjon.ipynb)|
-| 19.08.2025 08:15-10:00   |Tromsø  |2. Python Basics |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/2%20-%20Python_Basics.ipynb)/[Video](https://youtu.be/P7DCjp5QJCk)[Forelesning med løsningsforslag](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/2%20-%20Python_BasicsLF.ipynb)|
+| 19.08.2025 08:15-10:00   |Tromsø  |2. Python Basics |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/2%20-%20Python_Basics.ipynb)/[Video](https://youtu.be/P7DCjp5QJCk)/[Forelesning med løsningsforslag](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/2%20-%20Python_BasicsLF.ipynb)|
 | 21.08.2025 08:15-10:00   |Tromsø  |2. Python Basics |[Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar2-PythonBasics.ipynb)|
 | 25.08.2025 08:15-10:00   |Tromsø  |3. Funksjoner    |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/3%20-%20Funksjoner.ipynb)/[Video](https://youtu.be/u1FSeJdB3LU)|
 | 27.08.2025 14:15-16:00   |Tromsø  |3. Funksjoner    |Repetisjon - til nå|
