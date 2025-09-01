@@ -13,3 +13,6 @@ I forelesning 2 gikk vi igjennom en del av det mest grunnleggende i Python, unde
 
 <!-- Valgfritt: lenke for å åpne PDF i ny fane -->
 <p><a href="oppgaver/PythonBasicsRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
+
+## **Forelesning 3 - Funksjoner**
+I forelesning 3 gikk vi igjennom innebygde funksjoner, og funksjoner vi kan lage selv. Under her finner dere en del ekstra oppgaver/repetisjon knyttet til det temaet.
