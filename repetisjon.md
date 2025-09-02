@@ -20,7 +20,7 @@ I forelesning 3 gikk vi igjennom innebygde funksjoner, og funksjoner vi kan lage
 <!-- Valgfritt: lenke for å åpne PDF i ny fane -->
 <p><a href="oppgaver/FunksjonerRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
 
-## **Forelesning 3 - Funksjoner**
+## **Forelesning 4 - Lister, Tuples, Dictionary og NumPy**
 I forelesning 4 gikk vi igjennom lister, tuples, dictionary og NumPy. Det er mye fagstoff, derfor har jeg lagt ut notatet under, som går igjennom temaene og dere får oppgaver (med løsningsforslag). 
 
 <!-- Valgfritt: lenke for å åpne PDF i ny fane -->
