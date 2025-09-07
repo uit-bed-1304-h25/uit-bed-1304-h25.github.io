@@ -26,3 +26,12 @@ I forelesning 4 gikk vi igjennom lister, tuples, dictionary og NumPy. Det er mye
 
 <!-- Valgfritt: lenke for å åpne PDF i ny fane -->
 <p><a href="oppgaver/ListerNumpyRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
+
+## **Forelesning 5 - Pandas og databehandling**
+I forelesning 5 gikk vi igjennom Pandas biblioteket, og hvordan det kan brukes til å gjøre databehandling. Mange økonomer vil ofte bruke Excel for behandling av data, som kan være vel og fint for f.eks. *regnskap* og *revisjon*, **men** når vi jobber med andre typer data - vil ofte Python egne seg bedre. Det er fordi vi enkelt kan feilsøke hvor ting eventuelt måtte gå galt, og vi har stor fleksibilitet i hva vi kan gjøre med dataene. Som de andre notatene over, er dette notatet ment som et supplement til forelesning, og gir enda flere oppgaver dere kan bryne dere på. 
+
+<!-- Valgfritt: lenke for å åpne PDF i ny fane -->
+<p><a href="oppgaver/PandasRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
+
+## **Forelesning 6 - Logikk og løkker**
+Informasjon kommer snart:)
