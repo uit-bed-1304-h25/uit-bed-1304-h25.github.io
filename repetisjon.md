@@ -34,4 +34,10 @@ I forelesning 5 gikk vi igjennom Pandas biblioteket, og hvordan det kan brukes t
 <p><a href="oppgaver/PandasRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
 
 ## **Forelesning 6 - Logikk og løkker**
-Informasjon kommer snart:)
+I forelesning 6 gikk vi igjennom *if/else*-setninger, *for*-løkker og *while*-løkker. Dette handler om logisk tankegang i programmering, og er viktig å få brynet seg på.
+Dokumentet her går grundig til verks i å repetere fagstoffet fra forelesning, og gir også flere oppgaver. I tillegg, har jeg lagt ved noen utfordringsoppgaver - for deg som ønsker å utfordre deg selv.
+
+**Logikk og løkker** er essensielt å kunne som programmerer, og en viktig del av pensum. 
+
+<!-- Valgfritt: lenke for å åpne PDF i ny fane -->
+<p><a href="oppgaver/LogikkRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
