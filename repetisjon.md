@@ -9,17 +9,27 @@ Videoene er også pensum.
 
 Så disse filene her, er ment som et supplement!
 
+## **Forelesning 1 - Introduksjon**
+I forelesning 1 var det velkommen, informasjon om kurset og installering. Hadde noen få PowerPoint slides om dette, se under:
+<p><a href="oppgaver/Forelesning1_BED1304.pdf" target="_blank">Åpne PDF med forelesning i ny fane</a></p>
+
 ## **Forelesning 2 - Python Basics**
 I forelesning 2 gikk vi igjennom en del av det mest grunnleggende i Python, under her finner dere en del ekstra oppgaver/repetisjon knyttet til det temaet.
 
 <!-- Valgfritt: lenke for å åpne PDF i ny fane -->
 <p><a href="oppgaver/PythonBasicsRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
 
+### Powerpoint fra forelesning 2
+<p><a href="oppgaver/Forelesning2_BED1304.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
+
 ## **Forelesning 3 - Funksjoner**
 I forelesning 3 gikk vi igjennom innebygde funksjoner, og funksjoner vi kan lage selv. Under her finner dere en del ekstra oppgaver/repetisjon knyttet til det temaet.
 
 <!-- Valgfritt: lenke for å åpne PDF i ny fane -->
 <p><a href="oppgaver/FunksjonerRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
+
+### Powerpoint fra forelesning 3
+<p><a href="oppgaver/Forelesning3_BED1304.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
 
 ## **Forelesning 4 - Lister, Tuples, Dictionary og NumPy**
 I forelesning 4 gikk vi igjennom lister, tuples, dictionary og NumPy. Det er mye fagstoff, derfor har jeg lagt ut notatet under, som går igjennom temaene og dere får oppgaver (med løsningsforslag). 
