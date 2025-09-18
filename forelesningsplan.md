@@ -31,7 +31,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 14.10.2025 08:15-10:00   |Tromsø  |9. Simulering  |[Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)/[Video](https://youtu.be/Vae0YXmOF8M)|
 | 16.10.2025 10:15-12:00 (gruppe 1 og 2), 17.10.2025 08:15-10:00 (gruppe 3)   |Tromsø  |9. Simulering  |Seminar/oppgaver fra [forelesningsnotat](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb)|
 | 23.10.2025 10:15-12:00 (gruppe 1 og 2), 14:15-16:00 (gruppe 3)   |Tromsø  |ARBEIDSKRAV  |Seminar|
-| 27.10.2025  xx:xx        |Tromsø  |INNLEVERING AV ARBEIDSKRAV |Canvas lenke for innlevering |
+| 27.10.2025  xx:xx        |Tromsø  |INNLEVERING AV ARBEIDSKRAV |Gjøres i WiseFlow |
 | 27.10.2025 xx:xx-xx:xx   |Tromsø  |Repetisjon/oppsummering  |Forelesning|
 | 28.10.2025 10:15-12:00 (gruppe 1)   |Tromsø  |Repetisjon  |Seminar/øving til eksamen|
 | 30.10.2025 10:15-12:00 (gruppe 2 og 3)   |Tromsø  |Repetisjon  |Seminar/øving til eksamen|
