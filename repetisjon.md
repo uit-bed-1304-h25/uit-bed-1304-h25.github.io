@@ -54,3 +54,12 @@ Dokumentet her går grundig til verks i å repetere fagstoffet fra forelesning, 
 
 ### Powerpoint fra forelesning 6
 <p><a href="oppgaver/Forelesning6_BED1304.pdf" target="_blank">Åpne PDF med forelesning i ny fane</a></p>
+
+## **Forelesning 7 - Matplotlib**
+I forelesning 7 gikk vi igjennom visualisering i Python, ved hjelp av *matplotlib*. Dokumentet under her repeterer en del av stoffet, og gir noen oppgaver dere kan bryne dere på.
+
+**Visualisering** av data er essensielt å kunne som programmerer, og økonom! 
+
+<!-- Valgfritt: lenke for å åpne PDF i ny fane -->
+<p><a href="oppgaver/MatplotlibRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
+
