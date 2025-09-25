@@ -63,3 +63,6 @@ I forelesning 7 gikk vi igjennom visualisering i Python, ved hjelp av *matplotli
 <!-- Valgfritt: lenke for å åpne PDF i ny fane -->
 <p><a href="oppgaver/MatplotlibRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
 
+### Powerpoint fra forelesning 7
+<p><a href="oppgaver/Forelesning7_BED1304.pdf" target="_blank">Åpne PDF med forelesning i ny fane</a></p>
+
