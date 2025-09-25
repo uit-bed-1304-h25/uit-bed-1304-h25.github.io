@@ -66,3 +66,10 @@ I forelesning 7 gikk vi igjennom visualisering i Python, ved hjelp av *matplotli
 ### Powerpoint fra forelesning 7
 <p><a href="oppgaver/Forelesning7_BED1304.pdf" target="_blank">Åpne PDF med forelesning i ny fane</a></p>
 
+## **Forelesning 8 - SymPy**
+I forelesning 8 gikk vi igjennom hvordan vi kan regne med symboler i matematikk - ved hjelp av Python. Da brukte vi biblioteket **SymPy**. Dokumentet under her repeterer en del av stoffet, og gir noen oppgaver dere kan bryne dere på.
+
+**Løse matematisk problemer** er nyttig i samfunnsøkonomi, bedriftsøkonomi og et kjekt verktøy å ha i verktøykassa!
+
+<!-- Valgfritt: lenke for å åpne PDF i ny fane -->
+<p><a href="oppgaver/SympyRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
