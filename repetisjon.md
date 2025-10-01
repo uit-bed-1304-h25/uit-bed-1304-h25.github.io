@@ -71,8 +71,8 @@ I forelesning 8 gikk vi igjennom hvordan vi kan regne med symboler i matematikk 
 
 **Løse matematisk problemer** er nyttig i samfunnsøkonomi, bedriftsøkonomi og et kjekt verktøy å ha i verktøykassa!
 
-### Powerpoint fra forelesning 8
-<p><a href="oppgaver/Forelesning8_BED1304.pdf" target="_blank">Åpne PDF med forelesning i ny fane</a></p>
-
 <!-- Valgfritt: lenke for å åpne PDF i ny fane -->
 <p><a href="oppgaver/SympyRepetisjon.pdf" target="_blank">Åpne PDF med repetisjonsoppgaver i ny fane</a></p>
+
+### Powerpoint fra forelesning 8
+<p><a href="oppgaver/Forelesning8_BED1304.pdf" target="_blank">Åpne PDF med forelesning i ny fane</a></p>
