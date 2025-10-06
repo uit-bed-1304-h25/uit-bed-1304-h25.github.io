@@ -77,7 +77,7 @@ I forelesning 8 gikk vi igjennom hvordan vi kan regne med symboler i matematikk 
 ### Powerpoint fra forelesning 8
 <p><a href="oppgaver/Forelesning8_BED1304.pdf" target="_blank">Åpne PDF med forelesning i ny fane</a></p>
 
-## **Forelesning 9 - Simulering **
+## **Forelesning 9 - Simulering**
 I forelesning 9 gikk vi igjennom temaet **simulering**, og det dekker flere av de tidligere temaene. Lenka under viser eksempel, og litt arbeidsoppgaver til teamet.
 
 <!-- Valgfritt: lenke for å åpne PDF i ny fane -->
