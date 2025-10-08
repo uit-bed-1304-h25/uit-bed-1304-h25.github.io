@@ -85,3 +85,8 @@ I forelesning 9 gikk vi igjennom temaet **simulering**, og det dekker flere av d
 
 ### Powerpoint fra forelesning 9
 <p><a href="oppgaver/Forelesning9_BED1304.pdf" target="_blank">Åpne PDF med forelesning i ny fane</a></p>
+
+## Repetisjon - ekstra prøveeksamen
+Her er enda en prøveeksamen, som er ment for repetisjon av Python lab. Les beskrivelsen i dokumentet.
+<p><a href="oppgaver/BED1304___Prøveeksamen__øvelse_.pdf" target="_blank">Åpne prøveeksamen i ny fane</a></p>
+
