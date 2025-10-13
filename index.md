@@ -33,6 +33,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 ## Pensum
 I BED-1304 *Python-lab* har vi ingen bok, men vi har følgende pensum:
 * Forelesninger, og forelesningsnotater (Jupyter Notebooks).
+* Repetisjonsark til hvert av temaene.
 
 ## Kunngjøringer  
 Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:target="blank"}.
