@@ -30,7 +30,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 02.10.2025 (var. tider) | Tromsø | 8. SymPy | [Seminar](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar8_SymPy.ipynb) | [Løsningsforslag](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/oppgaver/Seminar8_SymPyLF.ipynb) |  |  |
 | 14.10.2025 08:15-10:00 | Tromsø | 9. Simulering | [Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simulering.ipynb) | [Løsningsforslag](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/9%20-%20simuleringLF.ipynb) | [Video](https://youtu.be/Vae0YXmOF8M) | <a href="oppgaver/SimuleringRepetisjon.pdf" target="_blank">Simulering Repetisjon</a> |
 | 16.–17.10.2025 | Tromsø | 9. Simulering | Seminar (oppgaver fra forelesning) |  |  |  |
-| 21.10.2025 | Tromsø | Repetisjon | Forelesning |  |  |  |
+| 21.10.2025 | Tromsø | Repetisjon | [Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/Repetisjon.ipynb) |  |  | <a href="oppgaver/LogikkRepetisjon.pdf" target="_blank">Logikk og løkker Repetisjon</a> |
 | 23.10.2025 | Tromsø | ARBEIDSKRAV | Seminar |  |  |  |
 | 27.10.2025 | Tromsø | INNLEVERING AV ARBEIDSKRAV | Gjør i WiseFlow |  |  |  |
 | 28. og 30.10.2025 | Tromsø | Repetisjon/oppsummering | Seminar |  |  |  |
