@@ -1,7 +1,7 @@
 {% include navbar.html %}{% include top-box.html %}
-# Bed-1304 Python-lab (IKKE FERDIG!!!)
+# Bed-1304 Python-lab 
 
-## Arbeidskrav (Fyll inn)
+## Arbeidskrav
 - I dette kurset har vi et arbeidskrav, det er innlevering av 27.10 kl. 14:00 på WiseFlow.
 - Arbeidskravet vurderes godkjent/ikke-godkjent, og **må** gjennomføres for å få lov til å ta eksamen i faget.
 - Arbeidskrav er obligatorisk, men inngår ikke i karaktergrunnlaget.
