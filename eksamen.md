@@ -9,6 +9,7 @@
 ## Karakter
 - I dette kurset er det en fire timers digital, skoleeksamen. Les mer om eksamensformatet på [UiT sine sider](https://uit.no/digitaleksamen).
 - Eksamen vurderes med karakter A til E, hvor F er stryk.
+- Ingen hjelpemidler på eksamen.
 
 
 | Type oppgave             | Innleveringsfrist                     | Hvordan               |Vurdering               |
