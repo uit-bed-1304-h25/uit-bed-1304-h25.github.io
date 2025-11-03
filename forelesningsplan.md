@@ -34,7 +34,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 23.10.2025 | Tromsø | ARBEIDSKRAV | Seminar |  |  |  |
 | 27.10.2025 | Tromsø | INNLEVERING AV ARBEIDSKRAV | Gjør i WiseFlow |  |  |  |
 | 28. og 30.10.2025 | Tromsø | Repetisjon/oppsummering | Seminar |  |  |  |
-| 03.11.2025 10:15-12:00 | Tromsø | [Spørretime](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/Repetisjon_Pandas_Plot.ipynb) | Repetisjon Pandas og Matplotlib |  |  | <a href="oppgaver/BED1304___Prøveeksamen__øvelse_.pdf" target="_blank">Ekstra Prøveeksamen</a> |
+| 03.11.2025 10:15-12:00 | Tromsø | Repetisjon **Pandas og Matplotlib** | [Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/Repetisjon_Pandas_Plot.ipynb) |  |  | <a href="oppgaver/BED1304___Prøveeksamen__øvelse_.pdf" target="_blank">Ekstra Prøveeksamen</a> |
 | 10.11.2025 10:15-12:00 | Tromsø | Spørretime | Forelesning |  |  |  |
 | 11.11.2025 12:15-14:00 | Tromsø | Spørretime (reserve) | Forelesning |  |  |  |
 | 24.11.2025 09:00-13:00 | Tromsø | DIGITAL SKOLEEKSAMEN | — |  |  |  |
