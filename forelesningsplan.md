@@ -36,7 +36,7 @@ Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for
 | 28. og 30.10.2025 | Tromsø | Repetisjon/oppsummering | Seminar |  |  |  |
 | 03.11.2025 10:15-12:00 | Tromsø | Repetisjon **Pandas og Matplotlib** | [Forelesning](https://github.com/uit-bed-1304-h25/uit-bed-1304-h25.github.io/blob/main/notebooks/Repetisjon_Pandas_Plot.ipynb) |  |  | <a href="oppgaver/BED1304___Prøveeksamen__øvelse_.pdf" target="_blank">Ekstra Prøveeksamen</a> |
 | 10.11.2025 10:15-12:00 | Tromsø | Repetisjon | Forelesning |  |  | <a href="oppgaver/BED1304___Prøveeksamen__semesterstart____Arbeidskrav.pdf" target="_blank"> Arbeidskrav Løsningsforslag</a>|
-| 11.11.2025 12:15-14:00 | Tromsø | Spørretime (reserve) | Forelesning |  |  |  |
+| 11.11.2025 12:15-14:00 | Tromsø | Spørretime (reserve) | Forelesning | [Spørsmål][https://forms.gle/fgjHcTmUJzSLZduB9] |  |  |
 | 19.11.2025 12:15-16:00 | Tromsø | Eksamensforberedelse |  |  |  |  |
 | 24.11.2025 09:00-13:00 | Tromsø | DIGITAL SKOLEEKSAMEN | — |  |  |  |
 
