@@ -7,6 +7,7 @@ Denne vil oppdateres, og rom nr. finner dere på UiT sin timeplan [her](https://
 ## Oversikt over forelesninger og seminar.
 **Kommentar:** Her kan (og mest sannsynligvis vil) det skje endringer.
 Under **Type** kolonnen, finner dere link til tilhørende forlesning/seminar for de ulike temaene vi skal igjennom i løpet av semesteret!📌 Der dere ser **Video**, så er det lagt ut en *forelesningsforberedende* video. Den er ikke ment for å erstatte forelesning, men ment som et supplement til annen undervisning. Ser dere disse korte snuttene, er dere litt forberedt på hva vi snakker om i forelesningene.
+Det finnes også en GitHub-bok, som viser forelesningsnotatene, pensum og repetisjonsoppgaver. Den finner dere [her](https://markusaase97.github.io/BED-1304-bok/notebooks/00/intro.html).
 
 | Tid | Sted | Tema | Forelesning / Seminar | Løsningsforslag (LF) | Video før forelesning | Repetisjonsark |
 |------|------|------|------------------------|------------------------|------------------------|----------------|
